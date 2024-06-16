@@ -1,0 +1,14 @@
+Atlanta;420
+Boston;551
+Chicago;2768
+Cleveland;503
+Dallas;1022
+Detroit;1012
+Houston;1690
+Los Angeles;9480
+Miami;371
+New York;7312
+Philadelphia;1553
+San Francisco;729
+Seattle;520
+Washington;585

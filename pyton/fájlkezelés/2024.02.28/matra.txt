@@ -1,0 +1,26 @@
+Hegycsúcs;Magasság lábban
+Ágasvár;2588,6
+Darázs-hegy;2736,2
+Galya-tető;3162,7
+Galya-vár;2746,1
+Győr-hegy;2726,4
+Hidas-bérc;3185,7
+Kékes;3326,8
+Kis-Átal-kő;2582,0
+Kis-kő;2582,0
+Kis-Sas-kő;2723,1
+Köves-orom;2582,0
+Kút-hegy;2880,6
+Legyendi-galya;3070,9
+Mogyorós-orom;2749,3
+Muzsla;2644,4
+Nagy-Átal-kő;2700,1
+Nyesett-vár;2667,3
+Péter hegyese;3149,6
+Piszkés-tető;3097,1
+Sas-kő;2946,2
+Som-tető;2568,9
+Teréz-hegy;2598,4
+Tót-hegyes;2670,6
+Tölgyes-bérc;2621,4
+Vadkert-tető;2736,2

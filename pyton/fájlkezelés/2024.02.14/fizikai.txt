@@ -1,0 +1,208 @@
+Év:Díjazott
+1901:Wilhelm Conrad Röntgen
+1902:Pieter Zeeman
+1902:Hendrik Antoon Lorentz
+1903:Marie Curie, née Sklodowska
+1903:Pierre Curie
+1903:Antoine Henri Becquerel
+1904:Lord Rayleigh (John William Strutt)
+1905:Philipp Eduard Anton von Lenard
+1906:Joseph John Thomson
+1907:Albert Abraham Michelson
+1908:Gabriel Lippmann
+1909:Karl Ferdinand Braun
+1909:Guglielmo Marconi
+1910:Johannes Diderik van der Waals
+1911:Wilhelm Wien
+1912:Nils Gustaf Dalén
+1913:Heike Kamerlingh Onnes
+1914:Max von Laue
+1915:William Lawrence Bragg
+1915:Sir William Henry Bragg
+1917:Charles Glover Barkla
+1918:Max Karl Ernst Ludwig Planck
+1919:Johannes Stark
+1920:Charles Edouard Guillaume
+1921:Albert Einstein
+1922:Niels Henrik David Bohr
+1923:Robert Andrews Millikan
+1924:Karl Manne Georg Siegbahn
+1925:Gustav Ludwig Hertz
+1925:James Franck
+1926:Jean Baptiste Perrin
+1927:Charles Thomson Rees Wilson
+1927:Arthur Holly Compton
+1928:Owen Willans Richardson
+1929:Prince Louis-Victor Pierre Raymond de Broglie
+1930:Sir Chandrasekhara Venkata Raman
+1932:Werner Karl Heisenberg
+1933:Paul Adrien Maurice Dirac
+1933:Erwin Schrödinger
+1935:James Chadwick
+1936:Carl David Anderson
+1936:Victor Franz Hess
+1937:George Paget Thomson
+1937:Clinton Joseph Davisson
+1938:Enrico Fermi
+1939:Ernest Orlando Lawrence
+1943:Otto Stern
+1944:Isidor Isaac Rabi
+1945:Wolfgang Pauli
+1946:Percy Williams Bridgman
+1947:Sir Edward Victor Appleton
+1948:Patrick Maynard Stuart Blackett
+1949:Hideki Yukawa
+1950:Cecil Frank Powell
+1951:Ernest Thomas Sinton Walton
+1951:Sir John Douglas Cockcroft
+1952:Edward Mills Purcell
+1952:Felix Bloch
+1953:Frits Zernike
+1954:Walther Bothe
+1954:Max Born
+1955:Polykarp Kusch
+1955:Willis Eugene Lamb
+1956:Walter Houser Brattain
+1956:John Bardeen
+1956:William Bradford Shockley
+1957:Tsung-Dao (T.D.) Lee
+1957:Chen Ning Yang
+1958:Igor Yevgenyevich Tamm
+1958:Il´ja Mikhailovich Frank
+1958:Pavel Alekseyevich Cherenkov
+1959:Owen Chamberlain
+1959:Emilio Gino Segrè
+1960:Donald Arthur Glaser
+1961:Rudolf Ludwig Mössbauer
+1961:Robert Hofstadter
+1962:Lev Davidovich Landau
+1963:J. Hans D. Jensen
+1963:Maria Goeppert Mayer
+1963:Eugene Paul Wigner
+1964:Aleksandr Mikhailovich Prokhorov
+1964:Nicolay Gennadiyevich Basov
+1964:Charles Hard Townes
+1965:Richard P. Feynman
+1965:Julian Schwinger
+1965:Sin-Itiro Tomonaga
+1966:Alfred Kastler
+1967:Hans Albrecht Bethe
+1968:Luis Walter Alvarez
+1969:Murray Gell-Mann
+1970:Louis Eugène Félix Néel
+1970:Hannes Olof Gösta Alfvén
+1971:Dennis Gabor
+1972:John Robert Schrieffer
+1972:Leon Neil Cooper
+1972:John Bardeen
+1973:Brian David Josephson
+1973:Ivar Giaever
+1973:Leo Esaki
+1974:Antony Hewish
+1974:Sir Martin Ryle
+1975:Leo James Rainwater
+1975:Ben Roy Mottelson
+1975:Aage Niels Bohr
+1976:Samuel Chao Chung Ting
+1976:Burton Richter
+1977:John Hasbrouck van Vleck
+1977:Sir Nevill Francis Mott
+1977:Philip Warren Anderson
+1978:Robert Woodrow Wilson
+1978:Arno Allan Penzias
+1978:Pyotr Leonidovich Kapitsa
+1979:Steven Weinberg
+1979:Abdus Salam
+1979:Sheldon Lee Glashow
+1980:Val Logsdon Fitch
+1980:James Watson Cronin
+1981:Kai M. Siegbahn
+1981:Arthur Leonard Schawlow
+1981:Nicolaas Bloembergen
+1982:Kenneth G. Wilson
+1983:William Alfred Fowler
+1983:Subramanyan Chandrasekhar
+1984:Simon van der Meer
+1984:Carlo Rubbia
+1985:Klaus von Klitzing
+1986:Heinrich Rohrer
+1986:Gerd Binnig
+1986:Ernst Ruska
+1987:K. Alexander Müller
+1987:J. Georg Bednorz
+1988:Jack Steinberger
+1988:Melvin Schwartz
+1988:Leon M. Lederman
+1989:Wolfgang Paul
+1989:Hans G. Dehmelt
+1989:Norman F. Ramsey
+1990:Richard E. Taylor
+1990:Henry W. Kendall
+1990:Jerome I. Friedman
+1991:Pierre-Gilles de Gennes
+1992:Georges Charpak
+1993:Joseph H. Taylor Jr.
+1993:Russell A. Hulse
+1994:Clifford G. Shull
+1994:Bertram N. Brockhouse
+1995:Frederick Reines
+1995:Martin L. Perl
+1996:Robert C. Richardson
+1996:Douglas D. Osheroff
+1996:David M. Lee
+1997:William D. Phillips
+1997:Claude Cohen-Tannoudji
+1997:Steven Chu
+1998:Daniel C. Tsui
+1998:Horst L. Störmer
+1998:Robert B. Laughlin
+1999:Martinus J.G. Veltman
+1999:Gerardus 't Hooft
+2000:Jack S. Kilby
+2000:Herbert Kroemer
+2000:Zhores I. Alferov
+2001:Carl E. Wieman
+2001:Wolfgang Ketterle
+2001:Eric A. Cornell
+2002:Riccardo Giacconi
+2002:Masatoshi Koshiba
+2002:Raymond Davis Jr.
+2003:Anthony J. Leggett
+2003:Vitaly L. Ginzburg
+2003:Alexei A. Abrikosov
+2004:Frank Wilczek
+2004:H. David Politzer
+2004:David J. Gross
+2005:Theodor W. Hänsch
+2005:John L. Hall
+2005:Roy J. Glauber
+2006:George F. Smoot
+2006:John C. Mather
+2007:Peter Grünberg
+2007:Albert Fert
+2008:Toshihide Maskawa
+2008:Makoto Kobayashi
+2008:Yoichiro Nambu
+2009:George E. Smith
+2009:Willard S. Boyle
+2009:Charles Kuen Kao
+2010:Konstantin Novoselov
+2010:Andre Geim
+2011:Adam G. Riess
+2011:Brian P. Schmidt
+2011:Saul Perlmutter
+2012:David J. Wineland
+2012:Serge Haroche
+2013:Peter W. Higgs
+2013:François Englert
+2014:Shuji Nakamura
+2014:Hiroshi Amano
+2014:Isamu Akasaki
+2015:Arthur B. McDonald
+2015:Takaaki Kajita
+2016:J. Michael Kosterlitz
+2016:F. Duncan M. Haldane
+2016:David J. Thouless
+2017:Kip S. Thorne
+2017:Barry C. Barish
+2017:Rainer Weiss
