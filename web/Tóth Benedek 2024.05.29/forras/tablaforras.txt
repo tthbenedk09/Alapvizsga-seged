@@ -1,0 +1,34 @@
+ <table>
+         <tr>
+            <td>Kategória</td>
+            <td>Győztes</td>
+         </tr>
+         <tr>
+            <td>Legjobb rendezés</td>
+            <td>Deathloop</td>
+         </tr>
+         <tr>
+	      <td>Legjobb történet</td>
+         	<td>Marvel’s Guardians of the Galaxy</td>
+         </tr>
+         <tr>
+            <td>Legjobb látványterv</td>
+            <td>Deathloop</td>
+         </tr> 
+         <tr>
+            <td>Legjobb eredeti betétdal és zene</td>
+            <td>Nier Replicant ver 1.22474487139</td>
+         </tr>
+         <tr>
+            <td>Legjobb hangdizájn</td>
+            <td>Forza Horizon 5</td>
+         </tr>
+         <tr>
+            <td>Legjobb színészi alakítás</td>
+            <td>Maggie Robertson – Resident Evil Village</td>
+         </tr>
+         <tr>
+            <td>Legnagyobb hatású játék</td>
+            <td>Life is Strange: True Colors</td>
+         </tr>
+ </table>
